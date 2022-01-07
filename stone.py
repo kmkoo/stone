@@ -282,7 +282,6 @@ def cclicked():
 
 win = Tk()
 win.title("돌깍기")
-win.iconbitmap(default='pickaxeicon.ico')
 
 
 al = Label(win, text="증가능력", fg="blue")
